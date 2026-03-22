@@ -1,0 +1,10 @@
+[for]{
+    color: red;
+}
+input[type="text"]{
+    background-color: rgb(221, 221, 119);
+
+}
+[type="button"]{
+    background-color: bisque;
+}

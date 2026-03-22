@@ -1,0 +1,11 @@
+p,h5{
+    color: black;
+    background-color:red;
+}
+.container>h5{
+    color: white;
+    background-color: cornflowerblue;
+}
+.container>h6{
+    background-color: bisque;
+}
