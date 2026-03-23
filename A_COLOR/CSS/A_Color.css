@@ -1,0 +1,12 @@
+.color{
+    color: aqua;
+}
+.Hex{
+    color: blue;
+}
+.rgb{
+    color: violet;
+}
+*{
+    background-color:gray;
+}

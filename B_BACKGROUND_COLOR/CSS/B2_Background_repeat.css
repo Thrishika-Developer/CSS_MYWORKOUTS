@@ -1,0 +1,8 @@
+body{
+    background-image: url('./B_dog.jpg');
+    /* background-repeat: repeat; */
+    background-repeat: repeat-x
+    /* background-repeat: repeat-y; */
+    /* background-repeat: no-repeat; */
+
+}

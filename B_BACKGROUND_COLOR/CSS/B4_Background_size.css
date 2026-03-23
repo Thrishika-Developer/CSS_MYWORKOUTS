@@ -1,0 +1,6 @@
+body{
+    background-image: url('./B_dog.jpg');
+    /* background-size: auto; */
+    /* background-size: contain; */
+    background-size: cover;
+}
