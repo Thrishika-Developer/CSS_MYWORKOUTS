@@ -1,0 +1,5 @@
+div{
+    border: 2px solid blueviolet;
+    margin: 20px;
+    min-width: 2px; /*content size increase automatic grow up*/
+}

@@ -1,0 +1,24 @@
+/* w S C */
+/* solid */
+/* div{
+    border: 2px solid blue;
+} */
+
+
+ /* dashed */
+ /* div{
+    border: 3px dashed blue;
+ } */
+
+ /* dotted */
+ /* div{
+    border: 3px dotted blue;
+ } */
+
+ /* Individual */
+ div{
+    border-width: 3px;
+    border-style:dotted;
+    border-color: black;
+ }
+
