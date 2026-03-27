@@ -1,7 +1,0 @@
-div{
-    border: 2px solid blueviolet;
-    margin: 20px;
-    max-height: 300px; 
-    /*if the content is less the 300px size will decrease automaically.*/
-    /*if the content is increase 300px above that time overlapping*/
-}

@@ -1,9 +1,0 @@
-div{
-    border: 2px solid blueviolet;
-    margin: 20px;
-    width: 200px;
-    max-width: 100px; 
-    /*if sets maximum width an element thats end*/
-    /*if increase normal width property not affected*/
-    /*Max width is a first priority*/   
-}
