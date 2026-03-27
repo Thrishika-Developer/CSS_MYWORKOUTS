@@ -1,124 +1,117 @@
 /* India */
-.india{
+body {
+    height: fit-content;
+    width: fit-content;
+
+}
+
+.text h3 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.india {
     display: flex;
     border: 3px solid whitesmoke;
     box-shadow: 0 0 10px black;
     border-radius: 25px;
 
-    .one>img{
+    .one>img {
         width: 200px;
         height: 200px;
         margin-left: 1350px;
-        margin-top: -82px;
-      
+        margin-top: -40px;
+
     }
 
-.indianflag>img{
-    margin-top: 11px;
-    margin-left:15px;
-    border-radius: 20px;
-    
+    .indianflag>img {
+        margin-top: 11px;
+        margin-left: 15px;
+        border-radius: 20px;
+
+    }
+
+    span {
+
+        width: 210px;
+        position: relative;
+        top: 30px;
+        left: 1100px;
+        font-family: cursive;
+        font-size: 30px;
+        font-weight: 200;
+
+
+    }
+
+
 }
-.indianflagmassage{
-   
-    width: 210px;
-    position: relative;
-    left: 60px;
-    top: 70px;
-    font-family:arial;
-    font-size: 30px;
-    font-weight: 900;
-}
-span{
-   
-    width: 210px;
-    position: relative;
-    top: 30px;
-    left: 1100px;
-    font-family: cursive;
-    font-size: 30px;
-    font-weight: 200;
-   
-}
-}
+
 /* united states*/
-.unitedstates{
+.unitedstates {
     display: flex;
     border: 3px solid whitesmoke;
     box-shadow: 0 0 10px black;
     flex-direction: row-reverse;
     border-radius: 25px;
 
-    .two>img{
+    .two>img {
         width: 200px;
         height: 200px;
         margin-right: 1250px;
-        margin-top: -82px;
+        margin-top: -40px;
         margin-left: 15px;
-       
+
     }
 
-.unitedstatesflag>img{
-    margin-top: 15px;
-    margin-right:15px;
-    margin-bottom: 10px;
-    border-radius: 20px;
-    
+    .unitedstatesflag>img {
+        margin-top: 15px;
+        margin-right: 15px;
+        margin-bottom: 10px;
+        border-radius: 20px;
+
+    }
+
+    span {
+
+        width: 210px;
+        position: relative;
+        top: 35px;
+        left: 280px;
+        font-family: cursive;
+        font-size: 30px;
+        font-weight: 200;
+
+    }
 }
-.unitedstatesflagmassage{
-    
-    width: 700px;
-    position: relative;
-    left: 1280px;
-    top: 80px;
-    font-family:arial;
-    font-size: 30px;
-    font-weight: 900;
-}
-span{
-   
-    width: 210px;
-    position: relative;
-    top: 35px;
-    left: 280px;
-    font-family: cursive;
-    font-size: 30px;
-    font-weight: 200;
-   
-}
-}
+
 /* united kingdon */
-.unitedkingdom{
+.unitedkingdom {
     display: flex;
     border: 3px solid whitesmoke;
     box-shadow: 0 0 10px black;
     border-radius: 25px;
 
-    .three>img{
+    .three>img {
         width: 200px;
         height: 200px;
         margin-left: 1350px;
-        margin-top: -80px;
-        
+        margin-top: -40px;
+
     }
 
-.unitedkingdomflag>img{
-    margin-top: 14px;
-    margin-left: 15px;
-    border-radius: 20px;
-    
+    .unitedkingdomflag>img {
+        margin-top: 14px;
+        margin-left: 15px;
+        border-radius: 20px;
+
+    }
+
 }
-.unitedkingdomflagmassage{
-    width: 700px;
-    position: relative;
-    left: 40px;
-    top: 80px;
-    font-family:arial;
-    font-size: 27px;
-    font-weight: 900;
-}
-span{
-   
+
+span {
+
     width: 210px;
     position: relative;
     top: 38px;
@@ -126,94 +119,78 @@ span{
     font-family: cursive;
     font-size: 30px;
     font-weight: 200;
-   
+
 }
-}
+
 /* canada */
-.canada{
+.canada {
     display: flex;
     border: 3px solid whitesmoke;
     box-shadow: 0 0 10px black;
     flex-direction: row-reverse;
     border-radius: 25px;
 
-    .four>img{
+    .four>img {
         width: 200px;
         height: 200px;
         margin-right: 1250px;
-        margin-top: -85px;
+        margin-top: -40px;
         margin-left: 15px;
-       
+
     }
 
-.canadaflag>img{
-    margin-top: 20px;
-    margin-right:15px;
-    margin-bottom: 10px;
-    border-radius: 20px;
-    
+    .canadaflag>img {
+        margin-top: 20px;
+        margin-right: 15px;
+        margin-bottom: 10px;
+        border-radius: 20px;
+
+    }
+
+    span {
+
+        width: 210px;
+        position: relative;
+        top: 35px;
+        left: 280px;
+        font-family: cursive;
+        font-size: 30px;
+        font-weight: 200;
+
+    }
 }
-.canadaflagmassage{
-    
-    width: 700px;
-    position: relative;
-    left: 1380px;
-    top: 80px;
-    font-family:arial;
-    font-size: 30px;
-    font-weight: 900;
-}
-span{
-   
-    width: 210px;
-    position: relative;
-    top: 35px;
-    left: 280px;
-    font-family: cursive;
-    font-size: 30px;
-    font-weight: 200;
-   
-}
-}
+
 /* Australia */
-.australia{
+.australia {
     display: flex;
     border: 3px solid whitesmoke;
     box-shadow: 0 0 10px black;
     border-radius: 25px;
 
-    .five>img{
+    .five>img {
         width: 200px;
         height: 200px;
         margin-left: 1350px;
-        margin-top: -80px;
-        
+        margin-top: -40px;
+
     }
 
-.australiaflag>img{
-    margin-top: 18px;
-    margin-left: 15px;
-    border-radius: 20px;
-    
-}
-.australiaflagmassage{
-    width: 700px;
-    position: relative;
-    left: 40px;
-    top: 80px;
-    font-family:arial;
-    font-size: 27px;
-    font-weight: 900;
-}
-span{
-   
-    width: 210px;
-    position: relative;
-    top: 38px;
-    left: 1040px;
-    font-family: cursive;
-    font-size: 30px;
-    font-weight: 200;
-   
-}
+    .australiaflag>img {
+        margin-top: 18px;
+        margin-left: 15px;
+        border-radius: 20px;
+
+    }
+
+    span {
+
+        width: 210px;
+        position: relative;
+        top: 38px;
+        left: 1040px;
+        font-family: cursive;
+        font-size: 30px;
+        font-weight: 200;
+
+    }
 }
