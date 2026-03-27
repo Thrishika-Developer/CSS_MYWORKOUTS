@@ -1,0 +1,32 @@
+/* pixels */
+.px button{
+    width: 60px;
+    height: 50px;    /*1px=1 dot on screen*/
+    
+} 
+
+/* centimeters */
+.cm button{
+    width: 6cm;
+    height: 5cm;
+}
+/* Millimeters */
+.mm button{
+    width: 60mm;
+    height: 50mm;
+}
+/* Inches */
+.in button{
+    width: 6in;
+    height: 5in;   /*1in=2.54cm*/
+}
+/* Points */
+.pt button{
+    width: 60pt;
+    height: 50pt;  /*1pt=1/72 inch*/
+}
+/* picas */
+.pc button{
+    width: 6pc;
+    height: 5pc;     /*1pc=12pt*/
+}

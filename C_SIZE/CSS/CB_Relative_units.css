@@ -1,0 +1,42 @@
+.percentage{ 
+
+.box{
+    width: 400px;
+    border: 2px solid blue;
+}
+.color{
+    width: 50%;
+    background-color: yellow;  /*width=200px , 50% of parent element size*//*parent box*/
+}
+}
+
+.em{
+    .box{
+        font-size: 20px;
+        border: 2px solid blue;
+    }
+    .color{
+        font-size: 2em;
+        background-color: yellow; /* 2em = 2*parent font size *//*parent font*/
+    }
+}
+
+.rem{
+    font-size: 2rem;
+    background-color: yellow; /*2 * root html font size*/ /*root font*/
+}
+.vwvh{
+    width: 50vw;    /*50% * screenwidth*//*50% * screenheight*/
+    height: 50vh;
+    background-color: yellow;
+}
+.vmin{
+    width: 50vmin;  /*Screen width = 1200px, height = 800px ,Smaller side = 800px → 1vmin = 1% of 800 = 8px,Box width = 50vmin → 50 × 8 = 400px,Box height = 50vmin → 50 × 8 = 400px*/
+    height: 50vmin;
+    background-color: yellow;
+}
+.vmax{
+    width: 50vmax;  /*Screen width = 1200px, height = 800px ,Larger side = 1200px → 1vmax = 1% of 1200 = 12px,Box width = 50vmax → 50 × 12 = 600px,Box height = 50vmax → 50 × 12 = 600px*/
+    height: 50vmax;
+    background-color: yellow;
+}
