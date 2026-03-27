@@ -1,0 +1,9 @@
+.inlinetoblock a{
+    display: inline-block;
+    border: 2px solid green;
+    margin: 10px;
+    padding: 20px;
+    height: 30px;
+    width: 80px;  /*display in inline but add height and width*/
+
+}

@@ -1,0 +1,18 @@
+.visibility div{
+    border: 2px solid black;
+    height: 100px;
+    width: 1500px;
+}
+.visible{
+    background-color: aqua;
+    visibility: visible;
+}
+.hidden{
+    background-color: blanchedalmond;
+    visibility: hidden;
+}
+.show{
+    background-color:blueviolet;
+    visibility: visible;
+    display: none;      /*remove element*/
+}

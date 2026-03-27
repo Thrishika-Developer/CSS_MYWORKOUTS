@@ -1,0 +1,16 @@
+.Blockelement p{
+    display: block;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px; 
+    height: 20px;
+    width: 70px;
+}
+.Block_to_inlineelement p{
+    display: inline;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px; 
+    height: 300px; /*height and width not set*/ 
+}
+

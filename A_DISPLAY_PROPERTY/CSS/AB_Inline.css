@@ -1,0 +1,14 @@
+.inline a{
+    border: 2px solid black;
+    margin: 30px;
+    padding: 10px;  /*height and width not set*/
+}
+.inline_to_block_element a{
+    display: block;
+    border: 2px solid black;
+    margin: 30px;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+
+}

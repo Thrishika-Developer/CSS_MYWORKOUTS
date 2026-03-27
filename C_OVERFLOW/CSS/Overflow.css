@@ -1,0 +1,13 @@
+.auto{
+    border: 2px solid orange;
+    max-height: 20px;
+    overflow: auto;
+    margin: 50px;
+}
+.scroll{
+    border: 2px solid orange;
+    max-height: 30px;
+    overflow: scroll;
+    margin: 50px;
+
+}
