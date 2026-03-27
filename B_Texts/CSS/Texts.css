@@ -1,0 +1,28 @@
+.textalignment{
+    /* text-align: center; */
+    /* text-align: end; */
+    text-align: start;
+}
+/* .textdecoration{
+    /*text-decoration:line-through;*/         /*text above line*/
+    /* text-decoration: underline; */          /*text below underline*/
+    /* text-decoration: overline; */           /*text top line*/
+    /* text-decoration: underline dashed;*/    /*underline with dashed*/
+    /* text-decoration: underline dotted; */   /*Underline with datted*/
+    /* text-decoration: underline double; */   /*below double line*/
+    /* text-decoration: underline solid; */    /*underline with solid*/
+    /* text-decoration: underline wavy; */     /*Underline with wavy*/
+        /*.tag{
+            text-decoration: none;             /*anchor tag below no      
+        } */
+        
+/* }*/ 
+
+/* .lineheight {
+    / line-height: 50px;*/                    /*above and below line spacing
+} */
+
+/* .letterspacing {
+    letter-spacing: 5px;
+
+} */
