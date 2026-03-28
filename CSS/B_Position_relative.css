@@ -1,0 +1,11 @@
+.relative{
+    position: relative;
+    top: 15px;
+    right: 15px;
+    left: 15px;
+    bottom: 15px;
+    background-color: tomato;
+    color: white;
+    padding: 25px;
+    width: 200px;   /*moves relative position*/
+}

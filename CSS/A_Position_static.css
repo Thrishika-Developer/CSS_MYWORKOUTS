@@ -1,0 +1,7 @@
+.static{
+    background-color: tomato;
+    color: white;
+    padding: 25px;
+    width: 200px;   /*default static*/
+    
+}

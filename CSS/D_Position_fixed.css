@@ -1,0 +1,13 @@
+.one{
+    background-color: rgb(246, 185, 185);
+    width: 200px;
+    height: 50px;
+    position: fixed;
+    text-align: center;
+    padding: 60px;
+    position: fixed;
+    left: 650px;
+}
+.two{
+    margin: 60px;
+}
