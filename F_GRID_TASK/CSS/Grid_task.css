@@ -7,7 +7,6 @@ body{
     background-attachment: fixed;
     background-position-x: 240px;
     zoom: 33%;
-    object-fit: contain;
     
 }
 .container{
