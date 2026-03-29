@@ -1,0 +1,21 @@
+.product {
+    display: grid;
+    /* grid-template-columns: repeat(auto-fit,minmax(200px,1fr)); */
+    grid-template-rows: repeat(auto-fit,minmax(200px,1fr));
+    margin: 10px;
+    padding: 20px;
+    
+    
+}
+
+.items {
+    background-color: rgb(121, 116, 116);
+    color: white;
+    width: 150px;
+    height: 200px;
+    margin: 15px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 2px 2px 4px black;
+    
+}

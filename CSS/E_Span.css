@@ -1,0 +1,26 @@
+.product {
+    display: grid;
+    grid-template-columns: 1fr 1fr  ;
+    /* grid-template-rows: 200px 300px ; */
+    margin: 10px;
+    padding: 20px;
+    gap: 10px;
+    
+    
+}
+
+.items {
+    background-color: rgb(121, 116, 116);
+    color: white;
+    width: 150px;
+    height: 280px;
+    margin: 15px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 2px 2px 4px black;
+    
+}
+.box{
+    /* grid-column: span 2; */
+    grid-row: span 2;
+}
