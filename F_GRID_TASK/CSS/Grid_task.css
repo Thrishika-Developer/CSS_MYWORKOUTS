@@ -74,4 +74,23 @@ h6{
     left: 710px;
     border-radius: 30px;
 
+} 
+
+.img img {
+    position: relative;
+    top: 850px;
+    left: 750px;
+    width: 250px;
+    mix-blend-mode:multiply;
+    filter: contrast(2);
+    fill-opacity: 3000px;
+    
+}
+h4{
+    color: white;
+    position: relative;
+    left: 1000px;
+    top: 500px;
+    font-size: 40px;
+    text-shadow: 1px 1px 5px white;
 }
