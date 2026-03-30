@@ -1,0 +1,58 @@
+.container{
+    border: 3px solid chocolate;
+    display: flex;
+    flex-direction: row;
+   
+}
+
+.items{
+    background-color: aqua;
+    width: 200px;
+    height: 20px;
+    margin: 20px;
+    text-align: center;
+    padding: 90px;
+}
+/* For mobile screen */
+/* @media (max-width:600px){
+    .items{
+        background-color: blue;
+    }
+
+} */
+
+
+/* For tablets */
+/* @media (( min-width:421px) and (max-width:1024px)){
+    
+    .container{
+        .items{
+            background-color: bisque;
+        }
+
+    }
+} */
+
+/* For desktops */
+/* @media (min-width:1000px){
+    .container{
+        .items{
+            background-color: darkred;
+        }
+    }
+} */
+
+/* Orientation-Portrait/landscape */
+/* @media(orientation: landscape){
+    body{
+        background-color: rgb(7, 109, 109);
+    }
+
+   
+} */
+ /* Portrait */
+/* @media(orientation: portrait){
+    body{
+        background-color: rgb(7, 109, 109);
+    }
+  } */
