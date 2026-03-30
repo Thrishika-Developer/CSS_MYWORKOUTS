@@ -1,0 +1,22 @@
+.item{
+    background-color: crimson;
+    color: white;
+    height: 20px;
+    width: 50px;
+    text-align: center;
+    padding: 30px;
+    transition: transform 2s ease;
+   
+
+}
+/* Translate */
+/* .item:hover{
+    /* background-color: aqua; */
+    /* translate */         /* x     y*/
+    /* transform: translate(100px, -50px);  top right */  /* +x right -x left -y top  +ybottom*/
+    /* transform: translate(-100px ,-50px);   top left  */
+    /* transform: translate(10px, 50px); bottom right */
+    /* transform: translate(-100px, 50px); bottom left /
+} */
+
+/* Scale */
