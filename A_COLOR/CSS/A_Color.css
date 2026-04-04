@@ -2,10 +2,10 @@
     color: aqua;
 }
 .Hex{
-    color: blue;
+    color: #ff0000;
 }
 .rgb{
-    color: violet;
+    color: rgb(31,55,88);
 }
 *{
     background-color:gray;
