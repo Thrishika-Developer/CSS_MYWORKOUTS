@@ -1,0 +1,19 @@
+p::before {
+    content: "👉";
+    color: blue;
+}
+h4::after{
+    content: "👉";
+    color: blue;
+    
+}
+h3::first-letter{
+    color:red
+}
+.para::first-line{
+    color:blue
+}
+.selection::selection {
+  background: yellow;
+  color: black;
+}

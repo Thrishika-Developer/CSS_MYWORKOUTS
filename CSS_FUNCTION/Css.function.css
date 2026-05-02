@@ -1,0 +1,32 @@
+
+        :root {
+            --gap: 20px;
+            --base-size: 16px;
+        }
+
+        /* calc() example */
+        .container {
+            width: calc(100% - 200px);
+            background: lightblue;
+            padding: 20px;
+            margin-bottom: 20px;
+            border: 2px solid blue;
+        }
+
+        .box {
+            width: calc(100% - var(--gap));
+            background: lightgreen;
+            padding: 15px;
+            border: 2px solid green;
+        }
+
+        /* clamp() example */
+        h1 {
+            font-size: clamp(
+                var(--base-size),
+                calc(2vw + var(--base-size)),
+                40px
+            );
+            color: darkred;
+        }
+    

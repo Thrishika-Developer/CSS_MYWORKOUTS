@@ -1,0 +1,11 @@
+button{
+    background : gray
+}
+button:hover{
+    background-color: green;
+}
+
+input:focus{
+    border: 9px solid rgb(58, 150, 236);
+    background-color: blue;
+}
