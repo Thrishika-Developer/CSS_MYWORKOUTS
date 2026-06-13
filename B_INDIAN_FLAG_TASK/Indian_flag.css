@@ -3,6 +3,8 @@
   height: 300px;
   border: 2px solid none;
   align-items: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 .flag div{
   height: 33.4%;
